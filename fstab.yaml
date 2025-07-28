@@ -1,4 +1,3 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/1Z0KwrUDjnH4SbVTH61VsJ5cwUaxF4MwP
-  /nav: https://drive.google.com/file/d/1yzc5YdoD6MbeOSRCyDWaClb4pZ8lql2w3EzKyPLJChQ
-
+  /nav: https://docs.google.com/document/d/1yzc5YdoD6MbeOSRCyDWaClb4pZ8lql2w3EzKyPLJChQ
